@@ -33,3 +33,20 @@ Telegram Bot Credentials
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 bool pirTriggered = false;
+
+# Required component
+1.	Robotic Arm 4-axis
+2.	Car kit
+3.	ESP 32 wroom DV modue
+4.	ESP 32 CAM Module
+5.	Jumper Wires 
+6.	IR proximity sensor
+7.	Buck converter
+8.	Ultrasonic sensor
+9.	Pan-tilt kit
+10.	Battery pack 12v DC
+11.	Servo motor
+12.	Motor Driver
+13.	Joysticks
+14.	PCB bord
+15.	On off switch
